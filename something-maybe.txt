@@ -1,0 +1,2 @@
+The beginning of the video talks of a game, it's the flag.
+**CTF{the-name-of-the-game}**
